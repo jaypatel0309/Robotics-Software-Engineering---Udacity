@@ -1,9 +1,9 @@
 # Robotics Software Engineering Nanodegree (Udacity)
 
-**Disclaimer:** Udacity provided some starter code, but the implementation for these concepts are done by myself. Please contact derektan95@hotmail.com for any questions. 
+**Disclaimer:** Udacity provided some starter code, but the implementation for these concepts are done by myself. Please contact pateljay4767@gmail.com for any questions. 
 
 ### Certificate of Completion<br/>
-https://confirm.udacity.com/LHFY5GCD
+https://learn.udacity.com/view-certificate/nd209
 
 ### Summary<br/>
 This course aims to educate more about localization and navigation principles pertaining to autonomous robots, using a commonly used platform called Robot Operating System (ROS). It covers topics ranging from Gazebo simulation, communcation between ROS nodes, localization using Extended Kalman Filter or Particle Filter, Simultaneous Localization & Mapping (SLAM) and A* Path Planning. All of these techniques culminates to a final project where a home service robot capable of localization and navigation is developed. Instructions for compiling each project is available on each project's subdirectory.
